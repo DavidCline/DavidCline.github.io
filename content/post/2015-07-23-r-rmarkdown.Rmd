@@ -1,0 +1,16 @@
+---
+title: "Welcome!"
+author: "David Cline"
+date: 2019-05-19
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome!
+
+I am David Cline. I am a data analyst and R enthusiast.
+
