@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot on David Cline</title>
-    <link>/tags/plot/</link>
+    <link>https://DavidCline.github.io/tags/plot/</link>
     <description>Recent content in plot on David Cline</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://DavidCline.github.io/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome!</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://DavidCline.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://DavidCline.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description> Welcome! I am David Cline. I am a data analyst and R enthusiast.
  </description>
     </item>
